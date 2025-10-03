@@ -1,12 +1,4 @@
-const message = `hi, husni. i've run out of words to say, but thank you for surviving in this cruel world. a wish for you on your birthday,
-        whatever you ask may you receive, whatever you seek may you find,
-        whatever you wish may it be fulfilled on your birthday and always.
-        i hope you will walk on this journey knowing that you belong, 
-        i hope even if things sometime do not go ur way you will stop trying, 
-        you will not give up on urself and on ur thoughest days. 
-        aku berdoa untuk kamu, mudah mudahan kamu terus diberi kesehatan, berkelimpahan, dikelilingi orang orang yang baik dan bermanfaat, 
-        diberi kemudahan ditengah rasa sakitmu, rasa sulitmu, dan aku selalu berdoa mudahmudahan hatimu diberi kelapangan dan kesabaran atas hal apapun yang memberatkanmu, 
-        may allah grant u what ur heart truly desire, may allah make everything u want good for u, so that may accept all ur prayers and wishes.`;
+const message = `hi, husni. i've run out of words to say, but thank you for surviving in this cruel world. a wish for you on your birthday, whatever you ask may you receive, whatever you seek may you find, whatever you wish may it be fulfilled on your birthday and always. aku berdoa untuk kamu, mudah mudahan kamu terus diberi kesehatan, berkelimpahan, dikelilingi orang orang yang baik dan bermanfaat, diberi kemudahan ditengah rasa sakitmu, rasa sulitmu, dan aku selalu berdoa mudah mudahan hatimu diberi kelapangan dan kesabaran atas hal apapun yang memberatkanmu, may allah grant u what ur heart truly desire, may allah make everything u want good for u, so that may accept all ur prayers and wishes.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -29,6 +21,7 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
 
 
 
