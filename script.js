@@ -1,4 +1,6 @@
-const message = `a wish for you on your birthday, whatever you ask may you receive, whatever you seek may you find, whatever you wish may it be fulfilled on your birthday and always`;
+const message = `a wish for you on your birthday,
+        whatever you ask may you receive, whatever you seek may you find,
+        whatever you wish may it be fulfilled on your birthday and always`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,4 +23,5 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
 
