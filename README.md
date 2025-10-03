@@ -1,2 +1,2 @@
 # letter-project
-"Happy Birthday Husni Arya Ardinata >.<"
+"Happy Birthday Husni Arya Ardinata"
